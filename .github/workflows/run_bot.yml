@@ -3,7 +3,7 @@ name: Run Theros Bot Daily
 on:
   schedule:
     # Rozana raat 8:00 PM PKT (UTC 15:00) par chalega
-    - cron: '0 8 * * *'
+  - cron: '0 10 * * *''
   workflow_dispatch: # Isse aap jab chahein button daba kar manually bhi chala sakte hain
 
 jobs:
