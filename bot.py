@@ -2,7 +2,7 @@ import asyncio
 from playwright.async_api import async_playwright, TimeoutError
 
 # Yahan apna answer set karein ("A", "B", "C", ya "D")
-ANSWER = "B"
+ANSWER = "A"
 
 # Yahan apne accounts ki list daal dein
 accounts = [
